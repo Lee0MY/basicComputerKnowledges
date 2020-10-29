@@ -1,1 +1,1 @@
-Git is easy to learn If you try for it
+This hub is a storage for computer basic konwledges.
